@@ -1,4 +1,4 @@
-
+import random
 
 # ================== Project Banner ==================
 modak_art = """
@@ -167,5 +167,6 @@ while True:
         break
     else:
         print("Invalid choice, try again.")
+
 
 
